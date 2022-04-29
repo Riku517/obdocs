@@ -5,6 +5,8 @@
 Herblore works as it does in OSRS: you clean herbs, make unfinished potions, prepare your secondary ingredients, and then make your final potions. In order to start training herblore, you need 10 qp to get the starting xp from the Druidic Ritual quest which will take you to level 3 herblore. If you did not have 10 qp when herblore was released, you will have a 50% chance of getting the starting xp when questing post 10 qp.
 
 You can buy vials of water using `+buy (quantity) vial of water`
+You can buy vials using `+buy (quantity) vial`
+You can create Coconut milk with 1x Coconut and 1x Vial using `/create item:Coconut milk`
 
 ### Making Potions
 
@@ -69,7 +71,7 @@ Making unfinished potions, cleaning herbs, and preparing secondary ingredients c
 | Ranging potion               |    Dwarf weed potion (unf)   |      Wine of Zamorak     |         72         |
 | Magic potion                 |    Lantadyme potion (unf)    |       Potato cactus      |         76         |
 | Zamorak brew                 |     Torstol potion (unf)     |       Jangerberries      |         78         |
-| Cadantine blood potion (unf) | Cadantine blood potion (unf) | Vial of blood, Cadantine |         80         |
+| Cadantine blood potion (unf) |        Vial of blood         |         Cadantine        |         80         |
 | Bastion potion               | Cadantine blood potion (unf) |      Wine of zamorak     |         80         |
 | Battlemage potion            | Cadantine blood potion (unf) |       Potato cactus      |         80         |
 | Saradomin brew               |     Toadflax potion (unf)    |       Crushed nest       |         81         |
@@ -84,7 +86,7 @@ Making unfinished potions, cleaning herbs, and preparing secondary ingredients c
 | Weapon poison+          |                 Coconut milk                |         Cactus spine, Red spiders' eggs         |         73         |
 | Stamina potion          |                 Super energy                |                4x Amylase crystal               |         77         |
 | Antidote++              |                 Coconut milk                |              Irit leaf, Magic roots             |         79         |
-| Weapon poison           |                 Coconut milk                |       Cave nightshade, Poison ivy berries       |         82         |
+| Weapon poison++         |                 Coconut milk                |       Cave nightshade, Poison ivy berries       |         82         |
 | Extended antifire       |               Antifire potion               |               4x Lava scale shard               |         84         |
 | Anti-venom              |                  Antidote++                 |               20x Zulrah's scales               |         87         |
 | Super combat potion     | Super attack, Super defence, Super strength |                     Torstol                     |         90         |
